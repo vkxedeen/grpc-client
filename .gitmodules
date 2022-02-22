@@ -1,0 +1,3 @@
+[submodule "proto_module"]
+	path = proto_module
+	url = git@github.com:moneyplatform/user-data-proto.git
